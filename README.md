@@ -1,3 +1,7 @@
+# Link to Deployed Production instance (done through Vercel CLI not github action)
+
+https://vercel-certification-shop-pi.vercel.app/
+
 # Ship It Shop — Vercel Agent Foundations Certification
 
 A Next.js e-commerce app used as the hands-on project for the Vercel Agent Foundations Certification. The storefront brand is **Ship It Shop**; the backend it talks to is the Vercel Swag Store API.
